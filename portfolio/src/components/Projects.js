@@ -9,12 +9,14 @@ function Projects() {
           <h2 className='comp-heads'>Projects</h2>
         </Col>
       </Row>
-      <Row>
+      <Row className='mt-3'>
       <Col>
           <h3>Will's Portfolio</h3>
-          <p className='smaller-p'>I created a simple app that allows me to keep track of my lifts. By using this application, I can create workout for a specific date, add exercises and sets to that workout, and view all of my past workouts!</p>
-          <a href="https://github.com/wnylund/wills-workouts">Will's Weights Github</a>
+          <p className='smaller-p'>This is the current website that you are on! I built it using React. You can let me know what you think of it by using the Contact form at the bottom, or you can email me with the email shown at the bottom as well!</p>
+          <a href="https://github.com/wnylund/portfolio">Will's Portfolio Github</a>
         </Col>
+        </Row>
+        <Row className='mt-3'>
         <Col>
           <h3>Will's Weights</h3>
           <p className='smaller-p'>I created a simple app that allows me to keep track of my lifts. By using this application, I can create workout for a specific date, add exercises and sets to that workout, and view all of my past workouts!</p>

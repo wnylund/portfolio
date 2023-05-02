@@ -11,6 +11,11 @@ function Contact() {
       </Row>
       <Row>
         <Col>
+          <p>Email me at willn@vt.edu or use the contact form below!</p>
+        </Col>
+      </Row>
+      <Row>
+        <Col>
           <Form action="https://formspree.io/f/mqkonpew" method="POST">
             <Form.Group controlId="formBasicEmail">
               <Form.Label className='medium-text mt-2 mb-2'>Email address</Form.Label>
