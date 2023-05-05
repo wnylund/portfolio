@@ -6,7 +6,7 @@ function Resume() {
     <Container>
       <Row>
         <Col>
-          <p>Check out my Resume! <a href="/WillNylund.pdf" download>Resume</a></p>
+          <p>Check out my Resume! <a href="/WillNylundR.pdf" download>Resume</a></p>
         </Col>
       </Row>
     </Container>
